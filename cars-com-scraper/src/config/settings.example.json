@@ -1,0 +1,12 @@
+{
+  "base_url": "https://www.cars.com/shopping/results/",
+  "output_format": "json",
+  "filters": {
+    "make": "",
+    "model": "",
+    "price_min": 0,
+    "price_max": 50000,
+    "year_min": 2000,
+    "year_max": 2023
+  }
+}
