@@ -1,0 +1,2 @@
+# Sample input file for Cars Scraper
+# Paste the Cars.com search URL here
